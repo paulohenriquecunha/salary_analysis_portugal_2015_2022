@@ -1,0 +1,1185 @@
+ano,sexo,categoria,ganho_medio_mensal
+1985,Homens,01. Quadros superiores,452.1
+1985,Homens,02. Quadros médios,347.1
+1985,Homens,"03. Encarregados, contra mestres e chefes de equipa",249.1
+1985,Homens,04. Profissionais altamente qualificados,252.4
+1985,Homens,05. Profissionais qualificados,180.1
+1985,Homens,06. Profissionais semi qualificados,161.9
+1985,Homens,07. Profissionais não qualificados,127.8
+1985,Homens,08. Praticantes e aprendizes,86.4
+1985,Mulheres,01. Quadros superiores,347.3
+1985,Mulheres,02. Quadros médios,280.5
+1985,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",208.4
+1985,Mulheres,04. Profissionais altamente qualificados,234.6
+1985,Mulheres,05. Profissionais qualificados,148.4
+1985,Mulheres,06. Profissionais semi qualificados,119.6
+1985,Mulheres,07. Profissionais não qualificados,115.9
+1985,Mulheres,08. Praticantes e aprendizes,82.4
+1986,Homens,01. Quadros superiores,556.0
+1986,Homens,02. Quadros médios,426.5
+1986,Homens,"03. Encarregados, contra mestres e chefes de equipa",297.1
+1986,Homens,04. Profissionais altamente qualificados,309.2
+1986,Homens,05. Profissionais qualificados,214.0
+1986,Homens,06. Profissionais semi qualificados,193.2
+1986,Homens,07. Profissionais não qualificados,151.8
+1986,Homens,08. Praticantes e aprendizes,102.7
+1986,Mulheres,01. Quadros superiores,417.4
+1986,Mulheres,02. Quadros médios,351.2
+1986,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",231.9
+1986,Mulheres,04. Profissionais altamente qualificados,283.7
+1986,Mulheres,05. Profissionais qualificados,176.8
+1986,Mulheres,06. Profissionais semi qualificados,144.4
+1986,Mulheres,07. Profissionais não qualificados,136.6
+1986,Mulheres,08. Praticantes e aprendizes,98.5
+1987,Homens,01. Quadros superiores,644.7
+1987,Homens,02. Quadros médios,504.0
+1987,Homens,"03. Encarregados, contra mestres e chefes de equipa",351.1
+1987,Homens,04. Profissionais altamente qualificados,363.3
+1987,Homens,05. Profissionais qualificados,247.7
+1987,Homens,06. Profissionais semi qualificados,221.6
+1987,Homens,07. Profissionais não qualificados,175.0
+1987,Homens,08. Praticantes e aprendizes,128.1
+1987,Mulheres,01. Quadros superiores,478.9
+1987,Mulheres,02. Quadros médios,417.1
+1987,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",283.2
+1987,Mulheres,04. Profissionais altamente qualificados,327.1
+1987,Mulheres,05. Profissionais qualificados,203.8
+1987,Mulheres,06. Profissionais semi qualificados,167.0
+1987,Mulheres,07. Profissionais não qualificados,155.4
+1987,Mulheres,08. Praticantes e aprendizes,116.5
+1988,Homens,01. Quadros superiores,757.1
+1988,Homens,02. Quadros médios,567.5
+1988,Homens,"03. Encarregados, contra mestres e chefes de equipa",395.9
+1988,Homens,04. Profissionais altamente qualificados,403.8
+1988,Homens,05. Profissionais qualificados,279.0
+1988,Homens,06. Profissionais semi qualificados,246.0
+1988,Homens,07. Profissionais não qualificados,193.2
+1988,Homens,08. Praticantes e aprendizes,139.7
+1988,Mulheres,01. Quadros superiores,564.9
+1988,Mulheres,02. Quadros médios,456.9
+1988,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",316.4
+1988,Mulheres,04. Profissionais altamente qualificados,362.5
+1988,Mulheres,05. Profissionais qualificados,226.2
+1988,Mulheres,06. Profissionais semi qualificados,184.4
+1988,Mulheres,07. Profissionais não qualificados,171.2
+1988,Mulheres,08. Praticantes e aprendizes,131.8
+1989,Homens,01. Quadros superiores,856.5
+1989,Homens,02. Quadros médios,631.1
+1989,Homens,"03. Encarregados, contra mestres e chefes de equipa",448.3
+1989,Homens,04. Profissionais altamente qualificados,458.1
+1989,Homens,05. Profissionais qualificados,310.0
+1989,Homens,06. Profissionais semi qualificados,268.5
+1989,Homens,07. Profissionais não qualificados,213.7
+1989,Homens,08. Praticantes e aprendizes,161.5
+1989,Mulheres,01. Quadros superiores,658.5
+1989,Mulheres,02. Quadros médios,516.3
+1989,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",362.4
+1989,Mulheres,04. Profissionais altamente qualificados,414.7
+1989,Mulheres,05. Profissionais qualificados,249.0
+1989,Mulheres,06. Profissionais semi qualificados,204.3
+1989,Mulheres,07. Profissionais não qualificados,189.3
+1989,Mulheres,08. Praticantes e aprendizes,149.9
+1991,Homens,01. Quadros superiores,1215.3
+1991,Homens,02. Quadros médios,884.6
+1991,Homens,"03. Encarregados, contra mestres e chefes de equipa",620.2
+1991,Homens,04. Profissionais altamente qualificados,659.0
+1991,Homens,05. Profissionais qualificados,419.8
+1991,Homens,06. Profissionais semi qualificados,375.6
+1991,Homens,07. Profissionais não qualificados,292.0
+1991,Homens,08. Praticantes e aprendizes,231.9
+1991,Mulheres,01. Quadros superiores,928.3
+1991,Mulheres,02. Quadros médios,722.4
+1991,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",511.3
+1991,Mulheres,04. Profissionais altamente qualificados,562.6
+1991,Mulheres,05. Profissionais qualificados,333.6
+1991,Mulheres,06. Profissionais semi qualificados,273.8
+1991,Mulheres,07. Profissionais não qualificados,255.9
+1991,Mulheres,08. Praticantes e aprendizes,216.0
+1992,Homens,01. Quadros superiores,1424.3
+1992,Homens,02. Quadros médios,1046.1
+1992,Homens,"03. Encarregados, contra mestres e chefes de equipa",719.1
+1992,Homens,04. Profissionais altamente qualificados,740.4
+1992,Homens,05. Profissionais qualificados,484.6
+1992,Homens,06. Profissionais semi qualificados,426.1
+1992,Homens,07. Profissionais não qualificados,338.3
+1992,Homens,08. Praticantes e aprendizes,267.9
+1992,Mulheres,01. Quadros superiores,1096.5
+1992,Mulheres,02. Quadros médios,822.0
+1992,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",588.8
+1992,Mulheres,04. Profissionais altamente qualificados,644.3
+1992,Mulheres,05. Profissionais qualificados,386.7
+1992,Mulheres,06. Profissionais semi qualificados,307.3
+1992,Mulheres,07. Profissionais não qualificados,290.7
+1992,Mulheres,08. Praticantes e aprendizes,246.1
+1993,Homens,01. Quadros superiores,1581.1
+1993,Homens,02. Quadros médios,1119.3
+1993,Homens,"03. Encarregados, contra mestres e chefes de equipa",771.9
+1993,Homens,04. Profissionais altamente qualificados,808.1
+1993,Homens,05. Profissionais qualificados,524.2
+1993,Homens,06. Profissionais semi qualificados,446.5
+1993,Homens,07. Profissionais não qualificados,371.6
+1993,Homens,08. Praticantes e aprendizes,303.0
+1993,Mulheres,01. Quadros superiores,1227.3
+1993,Mulheres,02. Quadros médios,919.6
+1993,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",648.4
+1993,Mulheres,04. Profissionais altamente qualificados,709.8
+1993,Mulheres,05. Profissionais qualificados,421.4
+1993,Mulheres,06. Profissionais semi qualificados,338.5
+1993,Mulheres,07. Profissionais não qualificados,317.2
+1993,Mulheres,08. Praticantes e aprendizes,278.5
+1994,Homens,01. Quadros superiores,1691.0
+1994,Homens,02. Quadros médios,1140.0
+1994,Homens,"03. Encarregados, contra mestres e chefes de equipa",830.2
+1994,Homens,04. Profissionais altamente qualificados,844.4
+1994,Homens,05. Profissionais qualificados,558.3
+1994,Homens,06. Profissionais semi qualificados,491.8
+1994,Homens,07. Profissionais não qualificados,395.0
+1994,Homens,08. Praticantes e aprendizes,325.4
+1994,Mulheres,01. Quadros superiores,1352.6
+1994,Mulheres,02. Quadros médios,957.1
+1994,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",705.4
+1994,Mulheres,04. Profissionais altamente qualificados,766.7
+1994,Mulheres,05. Profissionais qualificados,460.1
+1994,Mulheres,06. Profissionais semi qualificados,377.9
+1994,Mulheres,07. Profissionais não qualificados,339.5
+1994,Mulheres,08. Praticantes e aprendizes,301.5
+1995,Homens,01. Quadros superiores,1745.4
+1995,Homens,02. Quadros médios,1332.2
+1995,Homens,"03. Encarregados, contra mestres e chefes de equipa",869.7
+1995,Homens,04. Profissionais altamente qualificados,945.3
+1995,Homens,05. Profissionais qualificados,575.4
+1995,Homens,06. Profissionais semi qualificados,491.9
+1995,Homens,07. Profissionais não qualificados,398.8
+1995,Homens,08. Praticantes e aprendizes,331.9
+1995,Mulheres,01. Quadros superiores,1312.3
+1995,Mulheres,02. Quadros médios,1046.4
+1995,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",721.2
+1995,Mulheres,04. Profissionais altamente qualificados,812.2
+1995,Mulheres,05. Profissionais qualificados,470.9
+1995,Mulheres,06. Profissionais semi qualificados,377.9
+1995,Mulheres,07. Profissionais não qualificados,347.8
+1995,Mulheres,08. Praticantes e aprendizes,306.0
+1996,Homens,01. Quadros superiores,1860.1
+1996,Homens,02. Quadros médios,1336.2
+1996,Homens,"03. Encarregados, contra mestres e chefes de equipa",910.9
+1996,Homens,04. Profissionais altamente qualificados,978.6
+1996,Homens,05. Profissionais qualificados,606.9
+1996,Homens,06. Profissionais semi qualificados,515.4
+1996,Homens,07. Profissionais não qualificados,428.2
+1996,Homens,08. Praticantes e aprendizes,359.6
+1996,Mulheres,01. Quadros superiores,1345.3
+1996,Mulheres,02. Quadros médios,1020.8
+1996,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",762.3
+1996,Mulheres,04. Profissionais altamente qualificados,861.7
+1996,Mulheres,05. Profissionais qualificados,494.4
+1996,Mulheres,06. Profissionais semi qualificados,391.0
+1996,Mulheres,07. Profissionais não qualificados,365.8
+1996,Mulheres,08. Praticantes e aprendizes,329.1
+1997,Homens,01. Quadros superiores,2004.8
+1997,Homens,02. Quadros médios,1372.1
+1997,Homens,"03. Encarregados, contra mestres e chefes de equipa",947.5
+1997,Homens,04. Profissionais altamente qualificados,1024.0
+1997,Homens,05. Profissionais qualificados,612.0
+1997,Homens,06. Profissionais semi qualificados,534.8
+1997,Homens,07. Profissionais não qualificados,437.7
+1997,Homens,08. Praticantes e aprendizes,375.0
+1997,Mulheres,01. Quadros superiores,1422.8
+1997,Mulheres,02. Quadros médios,1024.5
+1997,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",787.6
+1997,Mulheres,04. Profissionais altamente qualificados,889.4
+1997,Mulheres,05. Profissionais qualificados,499.8
+1997,Mulheres,06. Profissionais semi qualificados,404.0
+1997,Mulheres,07. Profissionais não qualificados,379.9
+1997,Mulheres,08. Praticantes e aprendizes,345.0
+1998,Homens,01. Quadros superiores,2031.5
+1998,Homens,02. Quadros médios,1467.1
+1998,Homens,"03. Encarregados, contra mestres e chefes de equipa",1000.0
+1998,Homens,04. Profissionais altamente qualificados,1117.5
+1998,Homens,05. Profissionais qualificados,660.3
+1998,Homens,06. Profissionais semi qualificados,557.4
+1998,Homens,07. Profissionais não qualificados,453.0
+1998,Homens,08. Praticantes e aprendizes,387.8
+1998,Mulheres,01. Quadros superiores,1491.4
+1998,Mulheres,02. Quadros médios,1137.8
+1998,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",835.5
+1998,Mulheres,04. Profissionais altamente qualificados,961.1
+1998,Mulheres,05. Profissionais qualificados,534.6
+1998,Mulheres,06. Profissionais semi qualificados,416.6
+1998,Mulheres,07. Profissionais não qualificados,393.2
+1998,Mulheres,08. Praticantes e aprendizes,355.5
+1999,Homens,01. Quadros superiores,2140.4
+1999,Homens,02. Quadros médios,1499.0
+1999,Homens,"03. Encarregados, contra mestres e chefes de equipa",1020.1
+1999,Homens,04. Profissionais altamente qualificados,1166.1
+1999,Homens,05. Profissionais qualificados,672.2
+1999,Homens,06. Profissionais semi qualificados,561.8
+1999,Homens,07. Profissionais não qualificados,473.0
+1999,Homens,08. Praticantes e aprendizes,413.2
+1999,Mulheres,01. Quadros superiores,1523.1
+1999,Mulheres,02. Quadros médios,1154.8
+1999,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",853.6
+1999,Mulheres,04. Profissionais altamente qualificados,998.7
+1999,Mulheres,05. Profissionais qualificados,546.5
+1999,Mulheres,06. Profissionais semi qualificados,432.5
+1999,Mulheres,07. Profissionais não qualificados,406.4
+1999,Mulheres,08. Praticantes e aprendizes,383.2
+2000,Homens,01. Quadros superiores,2195.8
+2000,Homens,02. Quadros médios,1558.2
+2000,Homens,"03. Encarregados, contra mestres e chefes de equipa",1055.6
+2000,Homens,04. Profissionais altamente qualificados,1184.5
+2000,Homens,05. Profissionais qualificados,678.9
+2000,Homens,06. Profissionais semi qualificados,589.4
+2000,Homens,07. Profissionais não qualificados,488.7
+2000,Homens,08. Praticantes e aprendizes,436.8
+2000,Mulheres,01. Quadros superiores,1537.0
+2000,Mulheres,02. Quadros médios,1212.8
+2000,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",890.4
+2000,Mulheres,04. Profissionais altamente qualificados,1027.4
+2000,Mulheres,05. Profissionais qualificados,562.1
+2000,Mulheres,06. Profissionais semi qualificados,453.7
+2000,Mulheres,07. Profissionais não qualificados,419.2
+2000,Mulheres,08. Praticantes e aprendizes,408.7
+2002,Homens,01. Quadros superiores,2529.2
+2002,Homens,02. Quadros médios,1682.5
+2002,Homens,"03. Encarregados, contra mestres e chefes de equipa",1137.6
+2002,Homens,04. Profissionais altamente qualificados,1306.5
+2002,Homens,05. Profissionais qualificados,741.5
+2002,Homens,06. Profissionais semi qualificados,644.9
+2002,Homens,07. Profissionais não qualificados,536.7
+2002,Homens,08. Praticantes e aprendizes,480.8
+2002,Mulheres,01. Quadros superiores,1792.0
+2002,Mulheres,02. Quadros médios,1420.5
+2002,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",982.0
+2002,Mulheres,04. Profissionais altamente qualificados,1142.5
+2002,Mulheres,05. Profissionais qualificados,632.9
+2002,Mulheres,06. Profissionais semi qualificados,500.5
+2002,Mulheres,07. Profissionais não qualificados,463.0
+2002,Mulheres,08. Praticantes e aprendizes,451.4
+2003,Homens,01. Quadros superiores,2512.9
+2003,Homens,02. Quadros médios,1658.6
+2003,Homens,"03. Encarregados, contra mestres e chefes de equipa",1174.0
+2003,Homens,04. Profissionais altamente qualificados,1329.6
+2003,Homens,05. Profissionais qualificados,766.1
+2003,Homens,06. Profissionais semi qualificados,661.4
+2003,Homens,07. Profissionais não qualificados,556.1
+2003,Homens,08. Praticantes e aprendizes,493.7
+2003,Mulheres,01. Quadros superiores,1776.7
+2003,Mulheres,02. Quadros médios,1393.9
+2003,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",973.2
+2003,Mulheres,04. Profissionais altamente qualificados,1133.8
+2003,Mulheres,05. Profissionais qualificados,652.2
+2003,Mulheres,06. Profissionais semi qualificados,516.1
+2003,Mulheres,07. Profissionais não qualificados,469.3
+2003,Mulheres,08. Praticantes e aprendizes,462.4
+2004,Homens,01. Quadros superiores,2471.6
+2004,Homens,02. Quadros médios,1693.7
+2004,Homens,"03. Encarregados, contra mestres e chefes de equipa",1196.4
+2004,Homens,04. Profissionais altamente qualificados,1407.3
+2004,Homens,05. Profissionais qualificados,785.0
+2004,Homens,06. Profissionais semi qualificados,686.4
+2004,Homens,07. Profissionais não qualificados,568.3
+2004,Homens,08. Praticantes e aprendizes,501.0
+2004,Mulheres,01. Quadros superiores,1806.7
+2004,Mulheres,02. Quadros médios,1395.2
+2004,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",996.7
+2004,Mulheres,04. Profissionais altamente qualificados,1180.1
+2004,Mulheres,05. Profissionais qualificados,668.6
+2004,Mulheres,06. Profissionais semi qualificados,543.7
+2004,Mulheres,07. Profissionais não qualificados,481.2
+2004,Mulheres,08. Praticantes e aprendizes,468.3
+2005,Homens,01. Quadros superiores,2719.0
+2005,Homens,02. Quadros médios,1751.9
+2005,Homens,"03. Encarregados, contra mestres e chefes de equipa",1240.7
+2005,Homens,04. Profissionais altamente qualificados,1444.9
+2005,Homens,05. Profissionais qualificados,799.7
+2005,Homens,06. Profissionais semi qualificados,700.8
+2005,Homens,07. Profissionais não qualificados,578.6
+2005,Homens,08. Praticantes e aprendizes,521.0
+2005,Mulheres,01. Quadros superiores,1904.2
+2005,Mulheres,02. Quadros médios,1449.3
+2005,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1028.9
+2005,Mulheres,04. Profissionais altamente qualificados,1214.0
+2005,Mulheres,05. Profissionais qualificados,684.1
+2005,Mulheres,06. Profissionais semi qualificados,556.1
+2005,Mulheres,07. Profissionais não qualificados,490.8
+2005,Mulheres,08. Praticantes e aprendizes,480.8
+2006,Homens,01. Quadros superiores,2721.1
+2006,Homens,02. Quadros médios,1786.3
+2006,Homens,"03. Encarregados, contra mestres e chefes de equipa",1284.1
+2006,Homens,04. Profissionais altamente qualificados,1438.2
+2006,Homens,05. Profissionais qualificados,819.9
+2006,Homens,06. Profissionais semi qualificados,739.0
+2006,Homens,07. Profissionais não qualificados,596.1
+2006,Homens,08. Praticantes e aprendizes,543.2
+2006,Mulheres,01. Quadros superiores,1913.3
+2006,Mulheres,02. Quadros médios,1450.1
+2006,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1072.1
+2006,Mulheres,04. Profissionais altamente qualificados,1219.0
+2006,Mulheres,05. Profissionais qualificados,694.3
+2006,Mulheres,06. Profissionais semi qualificados,588.8
+2006,Mulheres,07. Profissionais não qualificados,502.8
+2006,Mulheres,08. Praticantes e aprendizes,500.3
+2007,Homens,01. Quadros superiores,2719.5
+2007,Homens,02. Quadros médios,1833.6
+2007,Homens,"03. Encarregados, contra mestres e chefes de equipa",1337.0
+2007,Homens,04. Profissionais altamente qualificados,1488.0
+2007,Homens,05. Profissionais qualificados,849.8
+2007,Homens,06. Profissionais semi qualificados,754.4
+2007,Homens,07. Profissionais não qualificados,616.3
+2007,Homens,08. Praticantes e aprendizes,566.5
+2007,Mulheres,01. Quadros superiores,1888.9
+2007,Mulheres,02. Quadros médios,1476.1
+2007,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1110.8
+2007,Mulheres,04. Profissionais altamente qualificados,1249.8
+2007,Mulheres,05. Profissionais qualificados,716.1
+2007,Mulheres,06. Profissionais semi qualificados,605.2
+2007,Mulheres,07. Profissionais não qualificados,520.2
+2007,Mulheres,08. Praticantes e aprendizes,519.2
+2008,Homens,01. Quadros superiores,2797.6
+2008,Homens,02. Quadros médios,1922.5
+2008,Homens,"03. Encarregados, contra mestres e chefes de equipa",1376.7
+2008,Homens,04. Profissionais altamente qualificados,1509.1
+2008,Homens,05. Profissionais qualificados,882.3
+2008,Homens,06. Profissionais semi qualificados,765.7
+2008,Homens,07. Profissionais não qualificados,638.3
+2008,Homens,08. Praticantes e aprendizes,595.4
+2008,Mulheres,01. Quadros superiores,1949.5
+2008,Mulheres,02. Quadros médios,1535.7
+2008,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1154.4
+2008,Mulheres,04. Profissionais altamente qualificados,1289.9
+2008,Mulheres,05. Profissionais qualificados,747.1
+2008,Mulheres,06. Profissionais semi qualificados,626.1
+2008,Mulheres,07. Profissionais não qualificados,540.8
+2008,Mulheres,08. Praticantes e aprendizes,546.0
+2009,Homens,01. Quadros superiores,2837.8
+2009,Homens,02. Quadros médios,1929.8
+2009,Homens,"03. Encarregados, contra mestres e chefes de equipa",1392.5
+2009,Homens,04. Profissionais altamente qualificados,1526.0
+2009,Homens,05. Profissionais qualificados,895.3
+2009,Homens,06. Profissionais semi qualificados,769.4
+2009,Homens,07. Profissionais não qualificados,665.0
+2009,Homens,08. Praticantes e aprendizes,613.6
+2009,Mulheres,01. Quadros superiores,1999.5
+2009,Mulheres,02. Quadros médios,1546.9
+2009,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1176.3
+2009,Mulheres,04. Profissionais altamente qualificados,1298.3
+2009,Mulheres,05. Profissionais qualificados,766.2
+2009,Mulheres,06. Profissionais semi qualificados,633.3
+2009,Mulheres,07. Profissionais não qualificados,560.1
+2009,Mulheres,08. Praticantes e aprendizes,567.6
+2010,Homens,01. Quadros superiores,2775.6
+2010,Homens,02. Quadros médios,1836.7
+2010,Homens,"03. Encarregados, contra mestres e chefes de equipa",1525.3
+2010,Homens,04. Profissionais altamente qualificados,1519.3
+2010,Homens,05. Profissionais qualificados,923.9
+2010,Homens,06. Profissionais semi qualificados,773.4
+2010,Homens,07. Profissionais não qualificados,697.5
+2010,Homens,08. Praticantes e aprendizes,658.3
+2010,Mulheres,01. Quadros superiores,1970.9
+2010,Mulheres,02. Quadros médios,1521.1
+2010,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1372.9
+2010,Mulheres,04. Profissionais altamente qualificados,1247.5
+2010,Mulheres,05. Profissionais qualificados,800.0
+2010,Mulheres,06. Profissionais semi qualificados,644.4
+2010,Mulheres,07. Profissionais não qualificados,589.5
+2010,Mulheres,08. Praticantes e aprendizes,601.4
+2011,Homens,01. Quadros superiores,2780.9
+2011,Homens,02. Quadros médios,1863.2
+2011,Homens,"03. Encarregados, contra mestres e chefes de equipa",1533.4
+2011,Homens,04. Profissionais altamente qualificados,1566.7
+2011,Homens,05. Profissionais qualificados,929.7
+2011,Homens,06. Profissionais semi qualificados,781.8
+2011,Homens,07. Profissionais não qualificados,708.9
+2011,Homens,08. Praticantes e aprendizes,669.6
+2011,Mulheres,01. Quadros superiores,1978.7
+2011,Mulheres,02. Quadros médios,1511.6
+2011,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1383.8
+2011,Mulheres,04. Profissionais altamente qualificados,1255.3
+2011,Mulheres,05. Profissionais qualificados,802.5
+2011,Mulheres,06. Profissionais semi qualificados,651.1
+2011,Mulheres,07. Profissionais não qualificados,599.2
+2011,Mulheres,08. Praticantes e aprendizes,615.0
+2012,Homens,01. Quadros superiores,2765.5
+2012,Homens,02. Quadros médios,1864.9
+2012,Homens,"03. Encarregados, contra mestres e chefes de equipa",1566.6
+2012,Homens,04. Profissionais altamente qualificados,1577.8
+2012,Homens,05. Profissionais qualificados,940.0
+2012,Homens,06. Profissionais semi qualificados,782.1
+2012,Homens,07. Profissionais não qualificados,713.9
+2012,Homens,08. Praticantes e aprendizes,680.3
+2012,Mulheres,01. Quadros superiores,1972.3
+2012,Mulheres,02. Quadros médios,1528.9
+2012,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1406.4
+2012,Mulheres,04. Profissionais altamente qualificados,1269.0
+2012,Mulheres,05. Profissionais qualificados,805.0
+2012,Mulheres,06. Profissionais semi qualificados,654.0
+2012,Mulheres,07. Profissionais não qualificados,600.7
+2012,Mulheres,08. Praticantes e aprendizes,623.6
+2013,Homens,01. Quadros superiores,2716.0
+2013,Homens,02. Quadros médios,1871.1
+2013,Homens,"03. Encarregados, contra mestres e chefes de equipa",1574.4
+2013,Homens,04. Profissionais altamente qualificados,1568.3
+2013,Homens,05. Profissionais qualificados,939.3
+2013,Homens,06. Profissionais semi qualificados,785.4
+2013,Homens,07. Profissionais não qualificados,711.7
+2013,Homens,08. Praticantes e aprendizes,686.9
+2013,Mulheres,01. Quadros superiores,1958.8
+2013,Mulheres,02. Quadros médios,1527.2
+2013,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1414.1
+2013,Mulheres,04. Profissionais altamente qualificados,1258.4
+2013,Mulheres,05. Profissionais qualificados,804.4
+2013,Mulheres,06. Profissionais semi qualificados,655.2
+2013,Mulheres,07. Profissionais não qualificados,601.1
+2013,Mulheres,08. Praticantes e aprendizes,627.0
+2014,Homens,01. Quadros superiores,2704.7
+2014,Homens,02. Quadros médios,1850.1
+2014,Homens,"03. Encarregados, contra mestres e chefes de equipa",1582.6
+2014,Homens,04. Profissionais altamente qualificados,1548.1
+2014,Homens,05. Profissionais qualificados,942.0
+2014,Homens,06. Profissionais semi qualificados,796.2
+2014,Homens,07. Profissionais não qualificados,718.4
+2014,Homens,08. Praticantes e aprendizes,692.8
+2014,Mulheres,01. Quadros superiores,1951.1
+2014,Mulheres,02. Quadros médios,1523.6
+2014,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1422.7
+2014,Mulheres,04. Profissionais altamente qualificados,1258.0
+2014,Mulheres,05. Profissionais qualificados,809.4
+2014,Mulheres,06. Profissionais semi qualificados,665.1
+2014,Mulheres,07. Profissionais não qualificados,613.4
+2014,Mulheres,08. Praticantes e aprendizes,639.4
+2015,Homens,01. Quadros superiores,2709.3
+2015,Homens,02. Quadros médios,1856.5
+2015,Homens,"03. Encarregados, contra mestres e chefes de equipa",1597.9
+2015,Homens,04. Profissionais altamente qualificados,1572.9
+2015,Homens,05. Profissionais qualificados,952.2
+2015,Homens,06. Profissionais semi qualificados,780.1
+2015,Homens,07. Profissionais não qualificados,725.2
+2015,Homens,08. Praticantes e aprendizes,693.7
+2015,Mulheres,01. Quadros superiores,1954.5
+2015,Mulheres,02. Quadros médios,1532.1
+2015,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1433.9
+2015,Mulheres,04. Profissionais altamente qualificados,1254.4
+2015,Mulheres,05. Profissionais qualificados,808.9
+2015,Mulheres,06. Profissionais semi qualificados,668.4
+2015,Mulheres,07. Profissionais não qualificados,617.4
+2015,Mulheres,08. Praticantes e aprendizes,638.3
+2016,Homens,01. Quadros superiores,2707.7
+2016,Homens,02. Quadros médios,1851.2
+2016,Homens,"03. Encarregados, contra mestres e chefes de equipa",1631.4
+2016,Homens,04. Profissionais altamente qualificados,1572.6
+2016,Homens,05. Profissionais qualificados,959.4
+2016,Homens,06. Profissionais semi qualificados,793.5
+2016,Homens,07. Profissionais não qualificados,734.4
+2016,Homens,08. Praticantes e aprendizes,705.1
+2016,Mulheres,01. Quadros superiores,1958.8
+2016,Mulheres,02. Quadros médios,1542.5
+2016,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1461.6
+2016,Mulheres,04. Profissionais altamente qualificados,1239.0
+2016,Mulheres,05. Profissionais qualificados,817.4
+2016,Mulheres,06. Profissionais semi qualificados,684.5
+2016,Mulheres,07. Profissionais não qualificados,638.9
+2016,Mulheres,08. Praticantes e aprendizes,657.5
+2017,Homens,01. Quadros superiores,2735.8
+2017,Homens,02. Quadros médios,1864.8
+2017,Homens,"03. Encarregados, contra mestres e chefes de equipa",1660.9
+2017,Homens,04. Profissionais altamente qualificados,1584.6
+2017,Homens,05. Profissionais qualificados,967.7
+2017,Homens,06. Profissionais semi qualificados,841.1
+2017,Homens,07. Profissionais não qualificados,760.2
+2017,Homens,08. Praticantes e aprendizes,741.7
+2017,Mulheres,01. Quadros superiores,1980.5
+2017,Mulheres,02. Quadros médios,1559.9
+2017,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1504.8
+2017,Mulheres,04. Profissionais altamente qualificados,1248.9
+2017,Mulheres,05. Profissionais qualificados,826.0
+2017,Mulheres,06. Profissionais semi qualificados,720.6
+2017,Mulheres,07. Profissionais não qualificados,670.4
+2017,Mulheres,08. Praticantes e aprendizes,691.3
+2018,Homens,01. Quadros superiores,2778.6
+2018,Homens,02. Quadros médios,1897.4
+2018,Homens,"03. Encarregados, contra mestres e chefes de equipa",1699.8
+2018,Homens,04. Profissionais altamente qualificados,1610.5
+2018,Homens,05. Profissionais qualificados,999.9
+2018,Homens,06. Profissionais semi qualificados,876.3
+2018,Homens,07. Profissionais não qualificados,788.9
+2018,Homens,08. Praticantes e aprendizes,776.1
+2018,Mulheres,01. Quadros superiores,2020.6
+2018,Mulheres,02. Quadros médios,1596.1
+2018,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1522.8
+2018,Mulheres,04. Profissionais altamente qualificados,1273.3
+2018,Mulheres,05. Profissionais qualificados,852.6
+2018,Mulheres,06. Profissionais semi qualificados,748.2
+2018,Mulheres,07. Profissionais não qualificados,697.8
+2018,Mulheres,08. Praticantes e aprendizes,726.2
+2019,Homens,01. Quadros superiores,2793.2
+2019,Homens,02. Quadros médios,1917.3
+2019,Homens,"03. Encarregados, contra mestres e chefes de equipa",1753.8
+2019,Homens,04. Profissionais altamente qualificados,1589.6
+2019,Homens,05. Profissionais qualificados,1049.6
+2019,Homens,06. Profissionais semi qualificados,915.7
+2019,Homens,07. Profissionais não qualificados,809.6
+2019,Homens,08. Praticantes e aprendizes,806.7
+2019,Mulheres,01. Quadros superiores,2054.4
+2019,Mulheres,02. Quadros médios,1621.9
+2019,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1577.8
+2019,Mulheres,04. Profissionais altamente qualificados,1273.4
+2019,Mulheres,05. Profissionais qualificados,904.7
+2019,Mulheres,06. Profissionais semi qualificados,783.5
+2019,Mulheres,07. Profissionais não qualificados,722.7
+2019,Mulheres,08. Praticantes e aprendizes,758.3
+2020,Homens,01. Quadros superiores,2791.2
+2020,Homens,02. Quadros médios,1927.3
+2020,Homens,"03. Encarregados, contra mestres e chefes de equipa",1799.2
+2020,Homens,04. Profissionais altamente qualificados,1610.3
+2020,Homens,05. Profissionais qualificados,1077.0
+2020,Homens,06. Profissionais semi qualificados,944.0
+2020,Homens,07. Profissionais não qualificados,841.6
+2020,Homens,08. Praticantes e aprendizes,837.6
+2020,Mulheres,01. Quadros superiores,2089.0
+2020,Mulheres,02. Quadros médios,1631.5
+2020,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1616.8
+2020,Mulheres,04. Profissionais altamente qualificados,1284.8
+2020,Mulheres,05. Profissionais qualificados,938.3
+2020,Mulheres,06. Profissionais semi qualificados,815.2
+2020,Mulheres,07. Profissionais não qualificados,757.9
+2020,Mulheres,08. Praticantes e aprendizes,786.5
+2021,Homens,01. Quadros superiores,2823.6
+2021,Homens,02. Quadros médios,1953.3
+2021,Homens,"03. Encarregados, contra mestres e chefes de equipa",1852.5
+2021,Homens,04. Profissionais altamente qualificados,1629.3
+2021,Homens,05. Profissionais qualificados,1111.5
+2021,Homens,06. Profissionais semi qualificados,987.7
+2021,Homens,07. Profissionais não qualificados,876.0
+2021,Homens,08. Praticantes e aprendizes,873.0
+2021,Mulheres,01. Quadros superiores,2122.6
+2021,Mulheres,02. Quadros médios,1651.8
+2021,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1667.2
+2021,Mulheres,04. Profissionais altamente qualificados,1299.0
+2021,Mulheres,05. Profissionais qualificados,966.3
+2021,Mulheres,06. Profissionais semi qualificados,852.3
+2021,Mulheres,07. Profissionais não qualificados,791.4
+2021,Mulheres,08. Praticantes e aprendizes,825.0
+2022,Homens,01. Quadros superiores,2978.0
+2022,Homens,02. Quadros médios,2087.3
+2022,Homens,"03. Encarregados, contra mestres e chefes de equipa",1948.9
+2022,Homens,04. Profissionais altamente qualificados,1696.3
+2022,Homens,05. Profissionais qualificados,1170.2
+2022,Homens,06. Profissionais semi qualificados,1039.5
+2022,Homens,07. Profissionais não qualificados,916.1
+2022,Homens,08. Praticantes e aprendizes,921.2
+2022,Mulheres,01. Quadros superiores,2217.1
+2022,Mulheres,02. Quadros médios,1745.7
+2022,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1762.7
+2022,Mulheres,04. Profissionais altamente qualificados,1355.3
+2022,Mulheres,05. Profissionais qualificados,1025.0
+2022,Mulheres,06. Profissionais semi qualificados,901.4
+2022,Mulheres,07. Profissionais não qualificados,837.4
+2022,Mulheres,08. Praticantes e aprendizes,875.7
+2023,Homens,01. Quadros superiores,3162.6
+2023,Homens,02. Quadros médios,2244.0
+2023,Homens,"03. Encarregados, contra mestres e chefes de equipa",2067.0
+2023,Homens,04. Profissionais altamente qualificados,1817.7
+2023,Homens,05. Profissionais qualificados,1254.6
+2023,Homens,06. Profissionais semi qualificados,1097.9
+2023,Homens,07. Profissionais não qualificados,986.0
+2023,Homens,08. Praticantes e aprendizes,997.5
+2023,Mulheres,01. Quadros superiores,2323.7
+2023,Mulheres,02. Quadros médios,1876.8
+2023,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1874.5
+2023,Mulheres,04. Profissionais altamente qualificados,1471.6
+2023,Mulheres,05. Profissionais qualificados,1105.2
+2023,Mulheres,06. Profissionais semi qualificados,969.5
+2023,Mulheres,07. Profissionais não qualificados,902.4
+2023,Mulheres,08. Praticantes e aprendizes,951.1
+1985,Homens,01. Quadros superiores,394.7
+1985,Homens,02. Quadros médios,293.1
+1985,Homens,"03. Encarregados, contra mestres e chefes de equipa",211.1
+1985,Homens,04. Profissionais altamente qualificados,213.4
+1985,Homens,05. Profissionais qualificados,155.6
+1985,Homens,06. Profissionais semi qualificados,136.9
+1985,Homens,07. Profissionais não qualificados,114.1
+1985,Homens,08. Praticantes e aprendizes,82.1
+1985,Mulheres,01. Quadros superiores,317.0
+1985,Mulheres,02. Quadros médios,253.3
+1985,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",188.8
+1985,Mulheres,04. Profissionais altamente qualificados,213.4
+1985,Mulheres,05. Profissionais qualificados,136.1
+1985,Mulheres,06. Profissionais semi qualificados,111.3
+1985,Mulheres,07. Profissionais não qualificados,104.7
+1985,Mulheres,08. Praticantes e aprendizes,80.5
+1986,Homens,01. Quadros superiores,476.8
+1986,Homens,02. Quadros médios,359.8
+1986,Homens,"03. Encarregados, contra mestres e chefes de equipa",250.4
+1986,Homens,04. Profissionais altamente qualificados,261.1
+1986,Homens,05. Profissionais qualificados,184.6
+1986,Homens,06. Profissionais semi qualificados,164.7
+1986,Homens,07. Profissionais não qualificados,135.4
+1986,Homens,08. Praticantes e aprendizes,97.8
+1986,Mulheres,01. Quadros superiores,378.5
+1986,Mulheres,02. Quadros médios,311.2
+1986,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",213.0
+1986,Mulheres,04. Profissionais altamente qualificados,255.4
+1986,Mulheres,05. Profissionais qualificados,162.3
+1986,Mulheres,06. Profissionais semi qualificados,134.0
+1986,Mulheres,07. Profissionais não qualificados,124.3
+1986,Mulheres,08. Praticantes e aprendizes,96.1
+1987,Homens,01. Quadros superiores,553.5
+1987,Homens,02. Quadros médios,419.3
+1987,Homens,"03. Encarregados, contra mestres e chefes de equipa",293.0
+1987,Homens,04. Profissionais altamente qualificados,300.4
+1987,Homens,05. Profissionais qualificados,212.1
+1987,Homens,06. Profissionais semi qualificados,188.4
+1987,Homens,07. Profissionais não qualificados,154.2
+1987,Homens,08. Praticantes e aprendizes,120.3
+1987,Mulheres,01. Quadros superiores,432.4
+1987,Mulheres,02. Quadros médios,364.8
+1987,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",255.5
+1987,Mulheres,04. Profissionais altamente qualificados,291.7
+1987,Mulheres,05. Profissionais qualificados,186.8
+1987,Mulheres,06. Profissionais semi qualificados,154.7
+1987,Mulheres,07. Profissionais não qualificados,141.0
+1987,Mulheres,08. Praticantes e aprendizes,113.3
+1988,Homens,01. Quadros superiores,634.5
+1988,Homens,02. Quadros médios,466.7
+1988,Homens,"03. Encarregados, contra mestres e chefes de equipa",324.6
+1988,Homens,04. Profissionais altamente qualificados,330.9
+1988,Homens,05. Profissionais qualificados,235.7
+1988,Homens,06. Profissionais semi qualificados,206.7
+1988,Homens,07. Profissionais não qualificados,169.5
+1988,Homens,08. Praticantes e aprendizes,132.2
+1988,Mulheres,01. Quadros superiores,499.3
+1988,Mulheres,02. Quadros médios,397.0
+1988,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",284.5
+1988,Mulheres,04. Profissionais altamente qualificados,320.2
+1988,Mulheres,05. Profissionais qualificados,206.0
+1988,Mulheres,06. Profissionais semi qualificados,170.7
+1988,Mulheres,07. Profissionais não qualificados,155.1
+1988,Mulheres,08. Praticantes e aprendizes,128.6
+1989,Homens,01. Quadros superiores,725.1
+1989,Homens,02. Quadros médios,524.5
+1989,Homens,"03. Encarregados, contra mestres e chefes de equipa",370.4
+1989,Homens,04. Profissionais altamente qualificados,376.6
+1989,Homens,05. Profissionais qualificados,263.7
+1989,Homens,06. Profissionais semi qualificados,228.3
+1989,Homens,07. Profissionais não qualificados,190.0
+1989,Homens,08. Praticantes e aprendizes,152.1
+1989,Mulheres,01. Quadros superiores,579.9
+1989,Mulheres,02. Quadros médios,453.2
+1989,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",325.6
+1989,Mulheres,04. Profissionais altamente qualificados,365.6
+1989,Mulheres,05. Profissionais qualificados,228.0
+1989,Mulheres,06. Profissionais semi qualificados,188.6
+1989,Mulheres,07. Profissionais não qualificados,171.5
+1989,Mulheres,08. Praticantes e aprendizes,145.5
+1991,Homens,01. Quadros superiores,1025.8
+1991,Homens,02. Quadros médios,712.9
+1991,Homens,"03. Encarregados, contra mestres e chefes de equipa",509.2
+1991,Homens,04. Profissionais altamente qualificados,517.0
+1991,Homens,05. Profissionais qualificados,354.3
+1991,Homens,06. Profissionais semi qualificados,311.0
+1991,Homens,07. Profissionais não qualificados,256.1
+1991,Homens,08. Praticantes e aprendizes,215.0
+1991,Mulheres,01. Quadros superiores,816.4
+1991,Mulheres,02. Quadros médios,627.7
+1991,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",444.9
+1991,Mulheres,04. Profissionais altamente qualificados,495.3
+1991,Mulheres,05. Profissionais qualificados,300.0
+1991,Mulheres,06. Profissionais semi qualificados,250.1
+1991,Mulheres,07. Profissionais não qualificados,231.5
+1991,Mulheres,08. Praticantes e aprendizes,204.4
+1992,Homens,01. Quadros superiores,1176.6
+1992,Homens,02. Quadros médios,806.6
+1992,Homens,"03. Encarregados, contra mestres e chefes de equipa",579.4
+1992,Homens,04. Profissionais altamente qualificados,590.4
+1992,Homens,05. Profissionais qualificados,400.2
+1992,Homens,06. Profissionais semi qualificados,351.3
+1992,Homens,07. Profissionais não qualificados,294.6
+1992,Homens,08. Praticantes e aprendizes,246.5
+1992,Mulheres,01. Quadros superiores,952.5
+1992,Mulheres,02. Quadros médios,692.9
+1992,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",506.4
+1992,Mulheres,04. Profissionais altamente qualificados,565.0
+1992,Mulheres,05. Profissionais qualificados,338.5
+1992,Mulheres,06. Profissionais semi qualificados,279.9
+1992,Mulheres,07. Profissionais não qualificados,261.1
+1992,Mulheres,08. Praticantes e aprendizes,231.0
+1993,Homens,01. Quadros superiores,1316.3
+1993,Homens,02. Quadros médios,882.6
+1993,Homens,"03. Encarregados, contra mestres e chefes de equipa",637.5
+1993,Homens,04. Profissionais altamente qualificados,645.9
+1993,Homens,05. Profissionais qualificados,439.3
+1993,Homens,06. Profissionais semi qualificados,374.5
+1993,Homens,07. Profissionais não qualificados,325.5
+1993,Homens,08. Praticantes e aprendizes,277.5
+1993,Mulheres,01. Quadros superiores,1061.6
+1993,Mulheres,02. Quadros médios,770.0
+1993,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",562.6
+1993,Mulheres,04. Profissionais altamente qualificados,624.2
+1993,Mulheres,05. Profissionais qualificados,374.1
+1993,Mulheres,06. Profissionais semi qualificados,306.6
+1993,Mulheres,07. Profissionais não qualificados,287.5
+1993,Mulheres,08. Praticantes e aprendizes,260.1
+1994,Homens,01. Quadros superiores,1427.1
+1994,Homens,02. Quadros médios,933.5
+1994,Homens,"03. Encarregados, contra mestres e chefes de equipa",679.2
+1994,Homens,04. Profissionais altamente qualificados,687.0
+1994,Homens,05. Profissionais qualificados,462.0
+1994,Homens,06. Profissionais semi qualificados,400.1
+1994,Homens,07. Profissionais não qualificados,343.1
+1994,Homens,08. Praticantes e aprendizes,295.2
+1994,Mulheres,01. Quadros superiores,1176.9
+1994,Mulheres,02. Quadros médios,822.0
+1994,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",616.3
+1994,Mulheres,04. Profissionais altamente qualificados,674.5
+1994,Mulheres,05. Profissionais qualificados,402.9
+1994,Mulheres,06. Profissionais semi qualificados,336.0
+1994,Mulheres,07. Profissionais não qualificados,304.3
+1994,Mulheres,08. Praticantes e aprendizes,278.4
+1995,Homens,01. Quadros superiores,1480.6
+1995,Homens,02. Quadros médios,1098.8
+1995,Homens,"03. Encarregados, contra mestres e chefes de equipa",706.8
+1995,Homens,04. Profissionais altamente qualificados,755.3
+1995,Homens,05. Profissionais qualificados,473.2
+1995,Homens,06. Profissionais semi qualificados,402.9
+1995,Homens,07. Profissionais não qualificados,347.8
+1995,Homens,08. Praticantes e aprendizes,298.9
+1995,Mulheres,01. Quadros superiores,1150.5
+1995,Mulheres,02. Quadros médios,924.3
+1995,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",629.9
+1995,Mulheres,04. Profissionais altamente qualificados,709.1
+1995,Mulheres,05. Profissionais qualificados,409.4
+1995,Mulheres,06. Profissionais semi qualificados,334.4
+1995,Mulheres,07. Profissionais não qualificados,310.9
+1995,Mulheres,08. Praticantes e aprendizes,279.9
+1996,Homens,01. Quadros superiores,1585.6
+1996,Homens,02. Quadros médios,1091.6
+1996,Homens,"03. Encarregados, contra mestres e chefes de equipa",740.4
+1996,Homens,04. Profissionais altamente qualificados,781.8
+1996,Homens,05. Profissionais qualificados,497.4
+1996,Homens,06. Profissionais semi qualificados,422.3
+1996,Homens,07. Profissionais não qualificados,369.6
+1996,Homens,08. Praticantes e aprendizes,321.2
+1996,Mulheres,01. Quadros superiores,1188.7
+1996,Mulheres,02. Quadros médios,904.6
+1996,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",662.5
+1996,Mulheres,04. Profissionais altamente qualificados,733.8
+1996,Mulheres,05. Profissionais qualificados,427.8
+1996,Mulheres,06. Profissionais semi qualificados,348.5
+1996,Mulheres,07. Profissionais não qualificados,326.4
+1996,Mulheres,08. Praticantes e aprendizes,300.0
+1997,Homens,01. Quadros superiores,1687.8
+1997,Homens,02. Quadros médios,1140.5
+1997,Homens,"03. Encarregados, contra mestres e chefes de equipa",772.2
+1997,Homens,04. Profissionais altamente qualificados,809.3
+1997,Homens,05. Profissionais qualificados,501.2
+1997,Homens,06. Profissionais semi qualificados,434.7
+1997,Homens,07. Profissionais não qualificados,376.2
+1997,Homens,08. Praticantes e aprendizes,331.7
+1997,Mulheres,01. Quadros superiores,1241.3
+1997,Mulheres,02. Quadros médios,910.0
+1997,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",678.4
+1997,Mulheres,04. Profissionais altamente qualificados,757.1
+1997,Mulheres,05. Profissionais qualificados,432.0
+1997,Mulheres,06. Profissionais semi qualificados,357.9
+1997,Mulheres,07. Profissionais não qualificados,335.9
+1997,Mulheres,08. Praticantes e aprendizes,310.2
+1998,Homens,01. Quadros superiores,1742.2
+1998,Homens,02. Quadros médios,1193.1
+1998,Homens,"03. Encarregados, contra mestres e chefes de equipa",813.0
+1998,Homens,04. Profissionais altamente qualificados,860.0
+1998,Homens,05. Profissionais qualificados,535.7
+1998,Homens,06. Profissionais semi qualificados,447.7
+1998,Homens,07. Profissionais não qualificados,388.2
+1998,Homens,08. Praticantes e aprendizes,341.8
+1998,Mulheres,01. Quadros superiores,1310.7
+1998,Mulheres,02. Quadros médios,1002.2
+1998,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",719.7
+1998,Mulheres,04. Profissionais altamente qualificados,799.1
+1998,Mulheres,05. Profissionais qualificados,458.5
+1998,Mulheres,06. Profissionais semi qualificados,366.9
+1998,Mulheres,07. Profissionais não qualificados,343.0
+1998,Mulheres,08. Praticantes e aprendizes,319.9
+1999,Homens,01. Quadros superiores,1839.5
+1999,Homens,02. Quadros médios,1221.9
+1999,Homens,"03. Encarregados, contra mestres e chefes de equipa",831.6
+1999,Homens,04. Profissionais altamente qualificados,896.6
+1999,Homens,05. Profissionais qualificados,548.0
+1999,Homens,06. Profissionais semi qualificados,460.4
+1999,Homens,07. Profissionais não qualificados,402.7
+1999,Homens,08. Praticantes e aprendizes,362.2
+1999,Mulheres,01. Quadros superiores,1335.8
+1999,Mulheres,02. Quadros médios,1018.0
+1999,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",735.7
+1999,Mulheres,04. Profissionais altamente qualificados,833.8
+1999,Mulheres,05. Profissionais qualificados,468.3
+1999,Mulheres,06. Profissionais semi qualificados,381.0
+1999,Mulheres,07. Profissionais não qualificados,356.4
+1999,Mulheres,08. Praticantes e aprendizes,342.5
+2000,Homens,01. Quadros superiores,1908.4
+2000,Homens,02. Quadros médios,1277.5
+2000,Homens,"03. Encarregados, contra mestres e chefes de equipa",863.1
+2000,Homens,04. Profissionais altamente qualificados,918.4
+2000,Homens,05. Profissionais qualificados,558.9
+2000,Homens,06. Profissionais semi qualificados,478.7
+2000,Homens,07. Profissionais não qualificados,414.4
+2000,Homens,08. Praticantes e aprendizes,380.1
+2000,Mulheres,01. Quadros superiores,1355.5
+2000,Mulheres,02. Quadros médios,1070.0
+2000,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",766.5
+2000,Mulheres,04. Profissionais altamente qualificados,857.6
+2000,Mulheres,05. Profissionais qualificados,485.2
+2000,Mulheres,06. Profissionais semi qualificados,398.1
+2000,Mulheres,07. Profissionais não qualificados,369.7
+2000,Mulheres,08. Praticantes e aprendizes,360.8
+2002,Homens,01. Quadros superiores,2200.4
+2002,Homens,02. Quadros médios,1408.2
+2002,Homens,"03. Encarregados, contra mestres e chefes de equipa",932.3
+2002,Homens,04. Profissionais altamente qualificados,1032.6
+2002,Homens,05. Profissionais qualificados,607.7
+2002,Homens,06. Profissionais semi qualificados,518.0
+2002,Homens,07. Profissionais não qualificados,441.7
+2002,Homens,08. Praticantes e aprendizes,414.7
+2002,Mulheres,01. Quadros superiores,1552.7
+2002,Mulheres,02. Quadros médios,1233.0
+2002,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",834.0
+2002,Mulheres,04. Profissionais altamente qualificados,955.5
+2002,Mulheres,05. Profissionais qualificados,541.8
+2002,Mulheres,06. Profissionais semi qualificados,437.5
+2002,Mulheres,07. Profissionais não qualificados,403.8
+2002,Mulheres,08. Praticantes e aprendizes,395.6
+2003,Homens,01. Quadros superiores,2173.6
+2003,Homens,02. Quadros médios,1378.7
+2003,Homens,"03. Encarregados, contra mestres e chefes de equipa",961.3
+2003,Homens,04. Profissionais altamente qualificados,1063.5
+2003,Homens,05. Profissionais qualificados,624.3
+2003,Homens,06. Profissionais semi qualificados,529.9
+2003,Homens,07. Profissionais não qualificados,457.6
+2003,Homens,08. Praticantes e aprendizes,423.9
+2003,Mulheres,01. Quadros superiores,1549.8
+2003,Mulheres,02. Quadros médios,1216.8
+2003,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",829.8
+2003,Mulheres,04. Profissionais altamente qualificados,956.0
+2003,Mulheres,05. Profissionais qualificados,557.1
+2003,Mulheres,06. Profissionais semi qualificados,449.8
+2003,Mulheres,07. Profissionais não qualificados,411.0
+2003,Mulheres,08. Praticantes e aprendizes,404.2
+2004,Homens,01. Quadros superiores,2159.4
+2004,Homens,02. Quadros médios,1421.9
+2004,Homens,"03. Encarregados, contra mestres e chefes de equipa",986.9
+2004,Homens,04. Profissionais altamente qualificados,1115.7
+2004,Homens,05. Profissionais qualificados,643.9
+2004,Homens,06. Profissionais semi qualificados,554.6
+2004,Homens,07. Profissionais não qualificados,471.4
+2004,Homens,08. Praticantes e aprendizes,433.0
+2004,Mulheres,01. Quadros superiores,1593.3
+2004,Mulheres,02. Quadros médios,1222.1
+2004,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",851.7
+2004,Mulheres,04. Profissionais altamente qualificados,992.4
+2004,Mulheres,05. Profissionais qualificados,572.7
+2004,Mulheres,06. Profissionais semi qualificados,475.6
+2004,Mulheres,07. Profissionais não qualificados,423.1
+2004,Mulheres,08. Praticantes e aprendizes,411.9
+2005,Homens,01. Quadros superiores,2376.7
+2005,Homens,02. Quadros médios,1465.5
+2005,Homens,"03. Encarregados, contra mestres e chefes de equipa",1027.1
+2005,Homens,04. Profissionais altamente qualificados,1156.1
+2005,Homens,05. Profissionais qualificados,655.6
+2005,Homens,06. Profissionais semi qualificados,566.2
+2005,Homens,07. Profissionais não qualificados,480.9
+2005,Homens,08. Praticantes e aprendizes,449.1
+2005,Mulheres,01. Quadros superiores,1677.5
+2005,Mulheres,02. Quadros médios,1272.1
+2005,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",880.2
+2005,Mulheres,04. Profissionais altamente qualificados,1020.9
+2005,Mulheres,05. Profissionais qualificados,586.9
+2005,Mulheres,06. Profissionais semi qualificados,485.8
+2005,Mulheres,07. Profissionais não qualificados,431.8
+2005,Mulheres,08. Praticantes e aprendizes,423.1
+2006,Homens,01. Quadros superiores,2369.2
+2006,Homens,02. Quadros médios,1490.1
+2006,Homens,"03. Encarregados, contra mestres e chefes de equipa",1060.0
+2006,Homens,04. Profissionais altamente qualificados,1167.3
+2006,Homens,05. Profissionais qualificados,670.7
+2006,Homens,06. Profissionais semi qualificados,594.3
+2006,Homens,07. Profissionais não qualificados,493.9
+2006,Homens,08. Praticantes e aprendizes,461.8
+2006,Mulheres,01. Quadros superiores,1671.7
+2006,Mulheres,02. Quadros médios,1275.8
+2006,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",910.6
+2006,Mulheres,04. Profissionais altamente qualificados,1036.9
+2006,Mulheres,05. Profissionais qualificados,596.1
+2006,Mulheres,06. Profissionais semi qualificados,510.4
+2006,Mulheres,07. Profissionais não qualificados,441.2
+2006,Mulheres,08. Praticantes e aprendizes,436.4
+2007,Homens,01. Quadros superiores,2342.8
+2007,Homens,02. Quadros médios,1512.3
+2007,Homens,"03. Encarregados, contra mestres e chefes de equipa",1094.0
+2007,Homens,04. Profissionais altamente qualificados,1206.7
+2007,Homens,05. Profissionais qualificados,688.2
+2007,Homens,06. Profissionais semi qualificados,605.8
+2007,Homens,07. Profissionais não qualificados,506.4
+2007,Homens,08. Praticantes e aprendizes,482.5
+2007,Mulheres,01. Quadros superiores,1660.9
+2007,Mulheres,02. Quadros médios,1276.5
+2007,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",938.9
+2007,Mulheres,04. Profissionais altamente qualificados,1054.8
+2007,Mulheres,05. Profissionais qualificados,610.9
+2007,Mulheres,06. Profissionais semi qualificados,523.9
+2007,Mulheres,07. Profissionais não qualificados,452.9
+2007,Mulheres,08. Praticantes e aprendizes,453.1
+2008,Homens,01. Quadros superiores,2413.9
+2008,Homens,02. Quadros médios,1565.0
+2008,Homens,"03. Encarregados, contra mestres e chefes de equipa",1130.9
+2008,Homens,04. Profissionais altamente qualificados,1231.3
+2008,Homens,05. Profissionais qualificados,715.6
+2008,Homens,06. Profissionais semi qualificados,616.9
+2008,Homens,07. Profissionais não qualificados,526.0
+2008,Homens,08. Praticantes e aprendizes,505.0
+2008,Mulheres,01. Quadros superiores,1707.9
+2008,Mulheres,02. Quadros médios,1310.4
+2008,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",978.0
+2008,Mulheres,04. Profissionais altamente qualificados,1087.9
+2008,Mulheres,05. Profissionais qualificados,635.9
+2008,Mulheres,06. Profissionais semi qualificados,538.4
+2008,Mulheres,07. Profissionais não qualificados,470.4
+2008,Mulheres,08. Praticantes e aprendizes,474.4
+2009,Homens,01. Quadros superiores,2451.3
+2009,Homens,02. Quadros médios,1575.2
+2009,Homens,"03. Encarregados, contra mestres e chefes de equipa",1149.0
+2009,Homens,04. Profissionais altamente qualificados,1245.0
+2009,Homens,05. Profissionais qualificados,727.4
+2009,Homens,06. Profissionais semi qualificados,621.0
+2009,Homens,07. Profissionais não qualificados,552.6
+2009,Homens,08. Praticantes e aprendizes,525.4
+2009,Mulheres,01. Quadros superiores,1753.3
+2009,Mulheres,02. Quadros médios,1329.0
+2009,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",994.3
+2009,Mulheres,04. Profissionais altamente qualificados,1099.5
+2009,Mulheres,05. Profissionais qualificados,653.0
+2009,Mulheres,06. Profissionais semi qualificados,546.4
+2009,Mulheres,07. Profissionais não qualificados,489.6
+2009,Mulheres,08. Praticantes e aprendizes,495.1
+2010,Homens,01. Quadros superiores,2403.0
+2010,Homens,02. Quadros médios,1518.9
+2010,Homens,"03. Encarregados, contra mestres e chefes de equipa",1264.7
+2010,Homens,04. Profissionais altamente qualificados,1237.2
+2010,Homens,05. Profissionais qualificados,743.1
+2010,Homens,06. Profissionais semi qualificados,624.1
+2010,Homens,07. Profissionais não qualificados,573.8
+2010,Homens,08. Praticantes e aprendizes,549.4
+2010,Mulheres,01. Quadros superiores,1723.0
+2010,Mulheres,02. Quadros médios,1299.5
+2010,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1175.5
+2010,Mulheres,04. Profissionais altamente qualificados,1051.9
+2010,Mulheres,05. Profissionais qualificados,677.0
+2010,Mulheres,06. Profissionais semi qualificados,549.7
+2010,Mulheres,07. Profissionais não qualificados,510.8
+2010,Mulheres,08. Praticantes e aprendizes,519.2
+2011,Homens,01. Quadros superiores,2392.8
+2011,Homens,02. Quadros médios,1539.3
+2011,Homens,"03. Encarregados, contra mestres e chefes de equipa",1275.9
+2011,Homens,04. Profissionais altamente qualificados,1259.2
+2011,Homens,05. Profissionais qualificados,750.6
+2011,Homens,06. Profissionais semi qualificados,630.7
+2011,Homens,07. Profissionais não qualificados,585.2
+2011,Homens,08. Praticantes e aprendizes,556.2
+2011,Mulheres,01. Quadros superiores,1726.8
+2011,Mulheres,02. Quadros médios,1291.9
+2011,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1181.6
+2011,Mulheres,04. Profissionais altamente qualificados,1049.2
+2011,Mulheres,05. Profissionais qualificados,678.8
+2011,Mulheres,06. Profissionais semi qualificados,554.7
+2011,Mulheres,07. Profissionais não qualificados,520.8
+2011,Mulheres,08. Praticantes e aprendizes,528.6
+2012,Homens,01. Quadros superiores,2376.5
+2012,Homens,02. Quadros médios,1533.5
+2012,Homens,"03. Encarregados, contra mestres e chefes de equipa",1314.3
+2012,Homens,04. Profissionais altamente qualificados,1273.6
+2012,Homens,05. Profissionais qualificados,758.2
+2012,Homens,06. Profissionais semi qualificados,633.9
+2012,Homens,07. Profissionais não qualificados,593.0
+2012,Homens,08. Praticantes e aprendizes,560.4
+2012,Mulheres,01. Quadros superiores,1723.6
+2012,Mulheres,02. Quadros médios,1304.0
+2012,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1200.4
+2012,Mulheres,04. Profissionais altamente qualificados,1056.2
+2012,Mulheres,05. Profissionais qualificados,677.5
+2012,Mulheres,06. Profissionais semi qualificados,556.0
+2012,Mulheres,07. Profissionais não qualificados,521.7
+2012,Mulheres,08. Praticantes e aprendizes,532.7
+2013,Homens,01. Quadros superiores,2329.8
+2013,Homens,02. Quadros médios,1532.8
+2013,Homens,"03. Encarregados, contra mestres e chefes de equipa",1315.0
+2013,Homens,04. Profissionais altamente qualificados,1252.9
+2013,Homens,05. Profissionais qualificados,757.6
+2013,Homens,06. Profissionais semi qualificados,631.3
+2013,Homens,07. Profissionais não qualificados,592.9
+2013,Homens,08. Praticantes e aprendizes,566.9
+2013,Mulheres,01. Quadros superiores,1713.8
+2013,Mulheres,02. Quadros médios,1304.3
+2013,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1206.7
+2013,Mulheres,04. Profissionais altamente qualificados,1049.2
+2013,Mulheres,05. Profissionais qualificados,676.3
+2013,Mulheres,06. Profissionais semi qualificados,556.6
+2013,Mulheres,07. Profissionais não qualificados,522.9
+2013,Mulheres,08. Praticantes e aprendizes,537.7
+2014,Homens,01. Quadros superiores,2309.2
+2014,Homens,02. Quadros médios,1510.8
+2014,Homens,"03. Encarregados, contra mestres e chefes de equipa",1324.5
+2014,Homens,04. Profissionais altamente qualificados,1228.1
+2014,Homens,05. Profissionais qualificados,755.8
+2014,Homens,06. Profissionais semi qualificados,640.1
+2014,Homens,07. Profissionais não qualificados,597.7
+2014,Homens,08. Praticantes e aprendizes,576.7
+2014,Mulheres,01. Quadros superiores,1702.6
+2014,Mulheres,02. Quadros médios,1300.4
+2014,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1219.0
+2014,Mulheres,04. Profissionais altamente qualificados,1046.4
+2014,Mulheres,05. Profissionais qualificados,680.6
+2014,Mulheres,06. Profissionais semi qualificados,566.3
+2014,Mulheres,07. Profissionais não qualificados,534.1
+2014,Mulheres,08. Praticantes e aprendizes,548.5
+2015,Homens,01. Quadros superiores,2316.9
+2015,Homens,02. Quadros médios,1523.3
+2015,Homens,"03. Encarregados, contra mestres e chefes de equipa",1337.2
+2015,Homens,04. Profissionais altamente qualificados,1255.2
+2015,Homens,05. Profissionais qualificados,762.1
+2015,Homens,06. Profissionais semi qualificados,635.4
+2015,Homens,07. Profissionais não qualificados,598.4
+2015,Homens,08. Praticantes e aprendizes,577.6
+2015,Mulheres,01. Quadros superiores,1705.9
+2015,Mulheres,02. Quadros médios,1311.1
+2015,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1230.8
+2015,Mulheres,04. Profissionais altamente qualificados,1041.9
+2015,Mulheres,05. Profissionais qualificados,682.7
+2015,Mulheres,06. Profissionais semi qualificados,571.3
+2015,Mulheres,07. Profissionais não qualificados,535.8
+2015,Mulheres,08. Praticantes e aprendizes,549.5
+2016,Homens,01. Quadros superiores,2318.8
+2016,Homens,02. Quadros médios,1525.5
+2016,Homens,"03. Encarregados, contra mestres e chefes de equipa",1360.2
+2016,Homens,04. Profissionais altamente qualificados,1253.5
+2016,Homens,05. Profissionais qualificados,768.9
+2016,Homens,06. Profissionais semi qualificados,648.0
+2016,Homens,07. Profissionais não qualificados,610.3
+2016,Homens,08. Praticantes e aprendizes,591.6
+2016,Mulheres,01. Quadros superiores,1710.8
+2016,Mulheres,02. Quadros médios,1323.5
+2016,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1247.8
+2016,Mulheres,04. Profissionais altamente qualificados,1033.4
+2016,Mulheres,05. Profissionais qualificados,692.6
+2016,Mulheres,06. Profissionais semi qualificados,586.1
+2016,Mulheres,07. Profissionais não qualificados,556.6
+2016,Mulheres,08. Praticantes e aprendizes,568.0
+2017,Homens,01. Quadros superiores,2339.5
+2017,Homens,02. Quadros médios,1538.7
+2017,Homens,"03. Encarregados, contra mestres e chefes de equipa",1373.7
+2017,Homens,04. Profissionais altamente qualificados,1259.6
+2017,Homens,05. Profissionais qualificados,774.3
+2017,Homens,06. Profissionais semi qualificados,682.2
+2017,Homens,07. Profissionais não qualificados,629.1
+2017,Homens,08. Praticantes e aprendizes,616.5
+2017,Mulheres,01. Quadros superiores,1722.3
+2017,Mulheres,02. Quadros médios,1330.8
+2017,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1272.6
+2017,Mulheres,04. Profissionais altamente qualificados,1038.5
+2017,Mulheres,05. Profissionais qualificados,698.8
+2017,Mulheres,06. Profissionais semi qualificados,614.8
+2017,Mulheres,07. Profissionais não qualificados,581.6
+2017,Mulheres,08. Praticantes e aprendizes,593.1
+2018,Homens,01. Quadros superiores,2364.1
+2018,Homens,02. Quadros médios,1560.5
+2018,Homens,"03. Encarregados, contra mestres e chefes de equipa",1400.6
+2018,Homens,04. Profissionais altamente qualificados,1281.4
+2018,Homens,05. Profissionais qualificados,798.2
+2018,Homens,06. Profissionais semi qualificados,706.7
+2018,Homens,07. Profissionais não qualificados,648.8
+2018,Homens,08. Praticantes e aprendizes,644.0
+2018,Mulheres,01. Quadros superiores,1746.3
+2018,Mulheres,02. Quadros médios,1351.7
+2018,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1283.9
+2018,Mulheres,04. Profissionais altamente qualificados,1056.8
+2018,Mulheres,05. Profissionais qualificados,720.0
+2018,Mulheres,06. Profissionais semi qualificados,637.5
+2018,Mulheres,07. Profissionais não qualificados,604.0
+2018,Mulheres,08. Praticantes e aprendizes,619.0
+2019,Homens,01. Quadros superiores,2384.7
+2019,Homens,02. Quadros médios,1591.6
+2019,Homens,"03. Encarregados, contra mestres e chefes de equipa",1449.6
+2019,Homens,04. Profissionais altamente qualificados,1260.4
+2019,Homens,05. Profissionais qualificados,840.5
+2019,Homens,06. Profissionais semi qualificados,739.9
+2019,Homens,07. Profissionais não qualificados,667.7
+2019,Homens,08. Praticantes e aprendizes,668.3
+2019,Mulheres,01. Quadros superiores,1777.2
+2019,Mulheres,02. Quadros médios,1371.2
+2019,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1330.7
+2019,Mulheres,04. Profissionais altamente qualificados,1066.0
+2019,Mulheres,05. Profissionais qualificados,764.2
+2019,Mulheres,06. Profissionais semi qualificados,662.4
+2019,Mulheres,07. Profissionais não qualificados,622.3
+2019,Mulheres,08. Praticantes e aprendizes,640.9
+2020,Homens,01. Quadros superiores,2391.2
+2020,Homens,02. Quadros médios,1597.2
+2020,Homens,"03. Encarregados, contra mestres e chefes de equipa",1490.4
+2020,Homens,04. Profissionais altamente qualificados,1284.7
+2020,Homens,05. Profissionais qualificados,866.5
+2020,Homens,06. Profissionais semi qualificados,766.7
+2020,Homens,07. Profissionais não qualificados,703.0
+2020,Homens,08. Praticantes e aprendizes,700.4
+2020,Mulheres,01. Quadros superiores,1799.2
+2020,Mulheres,02. Quadros médios,1377.5
+2020,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1366.7
+2020,Mulheres,04. Profissionais altamente qualificados,1075.8
+2020,Mulheres,05. Profissionais qualificados,795.0
+2020,Mulheres,06. Profissionais semi qualificados,688.8
+2020,Mulheres,07. Profissionais não qualificados,653.7
+2020,Mulheres,08. Praticantes e aprendizes,672.4
+2021,Homens,01. Quadros superiores,2428.3
+2021,Homens,02. Quadros médios,1632.1
+2021,Homens,"03. Encarregados, contra mestres e chefes de equipa",1535.9
+2021,Homens,04. Profissionais altamente qualificados,1304.5
+2021,Homens,05. Profissionais qualificados,897.9
+2021,Homens,06. Profissionais semi qualificados,807.2
+2021,Homens,07. Profissionais não qualificados,730.7
+2021,Homens,08. Praticantes e aprendizes,734.0
+2021,Mulheres,01. Quadros superiores,1832.7
+2021,Mulheres,02. Quadros médios,1399.8
+2021,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1412.0
+2021,Mulheres,04. Profissionais altamente qualificados,1089.9
+2021,Mulheres,05. Profissionais qualificados,823.4
+2021,Mulheres,06. Profissionais semi qualificados,724.3
+2021,Mulheres,07. Profissionais não qualificados,685.5
+2021,Mulheres,08. Praticantes e aprendizes,706.3
+2022,Homens,01. Quadros superiores,2558.3
+2022,Homens,02. Quadros médios,1748.1
+2022,Homens,"03. Encarregados, contra mestres e chefes de equipa",1609.7
+2022,Homens,04. Profissionais altamente qualificados,1348.4
+2022,Homens,05. Profissionais qualificados,944.2
+2022,Homens,06. Profissionais semi qualificados,851.0
+2022,Homens,07. Profissionais não qualificados,762.7
+2022,Homens,08. Praticantes e aprendizes,775.2
+2022,Mulheres,01. Quadros superiores,1914.2
+2022,Mulheres,02. Quadros médios,1481.5
+2022,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1484.7
+2022,Mulheres,04. Profissionais altamente qualificados,1138.8
+2022,Mulheres,05. Profissionais qualificados,871.1
+2022,Mulheres,06. Profissionais semi qualificados,766.5
+2022,Mulheres,07. Profissionais não qualificados,725.8
+2022,Mulheres,08. Praticantes e aprendizes,749.2
+2023,Homens,01. Quadros superiores,2702.2
+2023,Homens,02. Quadros médios,1872.2
+2023,Homens,"03. Encarregados, contra mestres e chefes de equipa",1701.9
+2023,Homens,04. Profissionais altamente qualificados,1437.4
+2023,Homens,05. Profissionais qualificados,1006.5
+2023,Homens,06. Profissionais semi qualificados,890.8
+2023,Homens,07. Profissionais não qualificados,821.0
+2023,Homens,08. Praticantes e aprendizes,832.8
+2023,Mulheres,01. Quadros superiores,1999.7
+2023,Mulheres,02. Quadros médios,1585.8
+2023,Mulheres,"03. Encarregados, contra mestres e chefes de equipa",1574.8
+2023,Mulheres,04. Profissionais altamente qualificados,1225.3
+2023,Mulheres,05. Profissionais qualificados,933.9
+2023,Mulheres,06. Profissionais semi qualificados,820.0
+2023,Mulheres,07. Profissionais não qualificados,785.2
+2023,Mulheres,08. Praticantes e aprendizes,812.8
